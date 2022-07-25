@@ -1,0 +1,25 @@
+https://tailwindcss.com/docs/guides/laravel
+
+https://laravel.com/docs/9.x/vite#main-content
+
+
+//to reload the blade automatically
+https://freek.dev/2277-using-laravel-vite-to-automatically-refresh-your-browser-when-changing-a-blade-file
+
+restrat the vite server
+
+hard reload the browser
+
+//to reload the blade automatically
+
+if usign saas
+
+https://vitejs.dev/guide/features.html#css-pre-processors
+
+npm add -D sass
+
+for vue
+npm install -D @vitejs/plugin-vue;
+
+import vue from '@vitejs/plugin-vue';
+
